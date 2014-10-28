@@ -24,3 +24,29 @@ c:\users\cleber\documents\visual studio 2013\Projects\NovaConsulting\NovaConsult
 c:\users\cleber\documents\visual studio 2013\Projects\NovaConsulting\NovaConsulting.Web\obj\Debug\NovaConsulting.Web.csprojResolveAssemblyReference.cache
 c:\users\cleber\documents\visual studio 2013\Projects\NovaConsulting\NovaConsulting.Web\obj\Debug\NovaConsulting.Web.dll
 c:\users\cleber\documents\visual studio 2013\Projects\NovaConsulting\NovaConsulting.Web\obj\Debug\NovaConsulting.Web.pdb
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\NovaConsulting.Web.dll.config
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\NovaConsulting.Web.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\NovaConsulting.Web.pdb
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\Antlr3.Runtime.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\Newtonsoft.Json.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Helpers.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Mvc.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Optimization.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Razor.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.WebPages.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\WebGrease.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Helpers.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Mvc.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Optimization.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.Razor.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.WebPages.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\Antlr3.Runtime.pdb
+D:\Projetos\NovaConsulting\NovaConsulting.Web\bin\Newtonsoft.Json.xml
+D:\Projetos\NovaConsulting\NovaConsulting.Web\obj\Debug\NovaConsulting.Web.csprojResolveAssemblyReference.cache
+D:\Projetos\NovaConsulting\NovaConsulting.Web\obj\Debug\NovaConsulting.Web.dll
+D:\Projetos\NovaConsulting\NovaConsulting.Web\obj\Debug\NovaConsulting.Web.pdb

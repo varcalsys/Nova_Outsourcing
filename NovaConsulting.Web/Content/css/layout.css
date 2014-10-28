@@ -1,14 +1,15 @@
 /*======= index.html =======*/
 #page_2 h1 a {
+    font-family: "Arial";
     color: #baa359;
 }
 
 #page_2 .menu {
-    background: #baa359;   
+    /*background: #baa359;*/   
 }
 
     #page_2 .menu li a:hover, #page_2 .menu .active a {
-        color: #baa359 !important;
+        color: #000 !important;
     }
 
 #page_2 a {
@@ -24,11 +25,11 @@
 }
 
 #page_3 .menu {
-    background: #baa359;
+    /*background: #baa359;*/
 }
 
     #page_3 .menu li a:hover, #page_3 .menu .active a {
-        color: #baa359 !important;
+        color: #000 !important;
     }
 
 #page_3 a {
@@ -48,11 +49,11 @@
 }
 
 #page_4 .menu {
-    background: #baa359;
+    /*background: #baa359;*/
 }
 
     #page_4 .menu li a:hover, #page_4 .menu .active a {
-        color: #baa359 !important;
+        color: #000 !important;
     }
 
 #page_4 a {
@@ -64,7 +65,7 @@
 }
 
 #page_4 .button {
-    background: #baa359;
+    /*background: #baa359;*/
 }
 /*======= index-3.html =======*/
 #page_5 h1 a {
@@ -72,11 +73,11 @@
 }
 
 #page_5 .menu {
-    background: #baa359;
+    /*background: #baa359;*/
 }
 
     #page_5 .menu li a:hover, #page_5 .menu .active a {
-        color: #baa359 !important;
+        color: #000 !important;
     }
 
 #page_5 a {
@@ -96,11 +97,11 @@
 }
 
 #page_6 .menu {
-    background: #baa359;
+    /*background: #baa359;*/
 }
 
     #page_6 .menu li a:hover, #page_6 .menu .active a {
-        color: #baa359 !important;
+        color: #000 !important;
     }
 
 #page_6 a {

@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Microsoft.SqlServer.Server;
+using NovaConsulting.Web.Models;
+using NovaConsulting.Web.Util;
 
 namespace NovaConsulting.Web.Controllers
 {
@@ -13,18 +16,22 @@ namespace NovaConsulting.Web.Controllers
             return View();
         }
 
-        public ActionResult About()
+        [HttpPost]
+        public string ContactForm(Contato contato)
         {
-            ViewBag.Message = "Your application description page.";
+            try
+            {
+                var email = new SendMail();
+                email.EnviarEmail(contato);
+                email.EnviaEmailResponsavel(contato);
+               
 
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+                return "info";
+            }
+            catch (Exception ex)
+            {
+                return "erro";
+            }
         }
     }
 }
