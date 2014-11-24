@@ -1,0 +1,12 @@
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\NovaOutsourcing.Util.dll.config
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\NovaOutsourcing.Util.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\NovaOutsourcing.Util.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\EntityFramework.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\NovaOutsourcing.Domain.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\NovaOutsourcing.Domain.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\EntityFramework.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\obj\Debug\NovaOutsourcing.Util.csprojResolveAssemblyReference.cache
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\obj\Debug\NovaOutsourcing.Util.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Util\obj\Debug\NovaOutsourcing.Util.pdb

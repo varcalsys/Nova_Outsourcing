@@ -1,0 +1,38 @@
+/*------------------------------------------------------------------
+
+COLOR:	SKY BLUE	#00cdcd
+
+-------------------------------------------------------------------*/
+.overlay, #testi .overlay {
+	background: rgba(0,205,205,0.75);
+}
+#perfect .stores, #pricing ul li .price, .botm-color, #team, #features, header .active, #team .team .des i, #news input[name="submit"], .item h4 {
+	background: #00cdcd;
+}
+.btn:hover, #contact input[type="submit"]:hover, button:hover, #testi .owl-page, .navbar-default .navbar-nav > li > a:hover {
+	background: #00cdcd;
+}
+.over {
+	background: rgba(0,0,0,0.75) !important;
+}
+#intro ul li i, .expand, #about .services li .icon i, #services .services li .icon i, #services .facts li i, .app_store i {
+	color: #00cdcd;
+}
+.btn:hover{
+	border-color:#00cdcd;
+}
+.tab-current i {
+	color: #00cdcd !important;
+}
+#team .team .des p {
+	color: #fff;
+}
+.is-sticky header {
+	background: #2c2c2c;
+}
+#pricing ul li:nth-child(2) .price {
+	background: #00cdcd;
+}
+#pricing ul li:nth-child(1) .price {
+	background: #00cdcd;
+}

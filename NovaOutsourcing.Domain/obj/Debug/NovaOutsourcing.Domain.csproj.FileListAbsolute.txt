@@ -1,0 +1,5 @@
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Domain\bin\Debug\NovaOutsourcing.Domain.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Domain\bin\Debug\NovaOutsourcing.Domain.pdb
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Domain\obj\Debug\NovaOutsourcing.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Domain\obj\Debug\NovaOutsourcing.Domain.dll
+C:\Users\Cleber\Documents\Visual Studio 2013\Projects\NovaOutsourcing\NovaOutsourcing.Domain\obj\Debug\NovaOutsourcing.Domain.pdb

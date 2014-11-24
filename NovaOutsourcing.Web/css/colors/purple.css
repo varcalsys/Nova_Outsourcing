@@ -1,0 +1,39 @@
+/*------------------------------------------------------------------
+
+COLOR:	PURPLE	#861dc1
+
+-------------------------------------------------------------------*/
+.overlay, #testi .overlay{
+	background: rgba(134,29,193,0.75);
+}
+#perfect .stores, #pricing ul li .price, .botm-color, #team, #features, header .active, #team .team .des i, #news input[name="submit"], .item h4{
+	background:#861dc1;
+}
+.btn:hover, #contact input[type="submit"]:hover, button:hover, #testi .owl-page, .navbar-default .navbar-nav > li > a:hover{
+	background:#861dc1;	
+}
+.over{
+	background: rgba(0,0,0,0.75) !important;	
+}
+#intro ul li i, .expand, #about .services li .icon i, #services .services li .icon i, #services .facts li i, .app_store i {
+	color:#861dc1;
+}
+.btn:hover{
+	border-color:#861dc1;
+}
+.tab-current i{
+	color: #861dc1 !important;
+}
+ #team .team .des p{
+	color:#fff;
+}
+.is-sticky header{
+	background: #2c2c2c;
+}
+#pricing ul li:nth-child(2) .price{
+	background: #861dc1;	
+}
+
+#pricing ul li:nth-child(1) .price{
+	background: #861dc1;	
+}

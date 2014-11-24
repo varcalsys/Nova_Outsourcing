@@ -1,0 +1,38 @@
+/*------------------------------------------------------------------
+
+COLOR:	RED	#f55354
+
+-------------------------------------------------------------------*/
+.overlay, #testi .overlay {
+	background: rgba(245,83,84,0.75);
+}
+#perfect .stores, #pricing ul li .price, .botm-color, #team, #features, header .active, #team .team .des i, #news input[name="submit"], .item h4 {
+	background: #f55354;
+}
+.btn:hover, #contact input[type="submit"]:hover, button:hover, #testi .owl-page, .navbar-default .navbar-nav > li > a:hover {
+	background: #f55354;
+}
+.over {
+	background: rgba(0,0,0,0.75) !important;
+}
+#intro ul li i, .expand, #about .services li .icon i, #services .services li .icon i, #services .facts li i, .app_store i {
+	color: #f55354;
+}
+.btn:hover{
+	border-color:#f55354;
+}
+.tab-current i {
+	color: #f55354 !important;
+}
+#team .team .des p {
+	color: #fff;
+}
+.is-sticky header {
+	background: #2c2c2c;
+}
+#pricing ul li:nth-child(2) .price {
+	background: #f55354;
+}
+#pricing ul li:nth-child(1) .price {
+	background: #f55354;
+}
